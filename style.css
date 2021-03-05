@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: coral;
+}
+
+
+p, li{
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkmagenta;
+    line-height: 1.5;
+}
+a{
+    color:red;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+img{
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px #ccc;
+}
